@@ -10,12 +10,19 @@ tweets were not lemmatized. For the lexicon expansion we used the FreeLing dicti
 Contenido de los archivos:
 
 lex_neg_union_lemas: Palabras negativas, unión de los tres léxicos originales, solo lemas.
+
 lex_neg_union_flex: Palabras negativas, unión de los tres léxicos originales, lemas y flexiones.
+
 lex_neg_interseccion_lemas: Palabras negativas, intersección de los tres léxicos originales, solo lemas.
+
 lex_neg_interseccion_flex: Palabras negativas, intersección de los tres léxicos originales, lemas y flexiones.
+
 lex_pos_union_lemas: Palabras positivas, unión de los tres léxicos originales, solo lemas.
+
 lex_pos_union_flex: Palabras positivas, unión de los tres léxicos originales, lemas y flexiones.
+
 lex_pos_interseccion_lemas: Palabras positivas, intersección de los tres léxicos originales, solo lemas.
+
 lex_pos_interseccion_flex: Palabras positivas, intersección de los tres léxicos originales, lemas y flexiones.
 
 
