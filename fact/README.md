@@ -8,3 +8,4 @@ Dina Wonsever. 2020. Overview of FACT at IberLEF 2020: Events Detection and Clas
 co-located with 36th Conference of the Spanish Society for Natural Language Processing (SEPLN 2020). http://ceur-ws.org/Vol-2664/fact_overview.pdf
 
 
+
