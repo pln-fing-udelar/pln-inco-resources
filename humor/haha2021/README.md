@@ -51,4 +51,19 @@ Each tweet that has been annotated for humor mechanism has also been annotated f
 
 The tweets can have zero or more labels. Multiple labels are allowed, and in this case they are separated by ";". For example: body shaming; family/relationships
 
-## Overview paper: Coming soon
+## Overview paper
+
+[Overview of HAHA at IberLEF 2021: Detecting, Rating and Analyzing Humor in Spanish](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/viewFile/6394/3814) 
+
+###Citation
+
+```
+@article{Chiruzzo2021OverviewOH,
+  title={Overview of HAHA at IberLEF 2021: Detecting, Rating and Analyzing Humor in Spanish},
+  author={Luis Chiruzzo and Santiago Castro and Santiago G{\'o}ngora and Aiala Ros{\'a} and J. A Meaney and Rada Mihalcea},
+  journal={Procesamiento del Lenguaje Natural},
+  year={2021},
+  volume={67},
+  pages={257-268}
+}
+```
