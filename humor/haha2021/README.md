@@ -55,7 +55,7 @@ The tweets can have zero or more labels. Multiple labels are allowed, and in thi
 
 [Overview of HAHA at IberLEF 2021: Detecting, Rating and Analyzing Humor in Spanish](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/viewFile/6394/3814) 
 
-###Citation
+### Citation
 
 ```
 @article{Chiruzzo2021OverviewOH,
