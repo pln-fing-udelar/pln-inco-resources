@@ -1,4 +1,4 @@
-# <center> Grupo de Procesamiento de Lenguaje Natural</center>
+# <center> Grupo Procesamiento de Lenguaje Natural</center>
 ## <center> Instituto de Computación  - Facultad de Ingeniería -  UdelaR </center>
 ***
 
