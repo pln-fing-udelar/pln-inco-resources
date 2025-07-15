@@ -8,7 +8,7 @@ Even though clickbait is a widely employed term, there remains a lack of consens
 
 A more detailed description of the datasets, tasks, and competition can be found in (Overview of TA1C at IberLEF 2025: Detecting and Spoiling Clickbait in Spanish-Language News). A more detailed description of the clickbait definition, criterias and detection task can be found in [Te ahorré un click: Caracterización y detección automática de clickbait en español.](https://hdl.handle.net/20.500.12008/48614)
 
-## [Detection](/detection)
+## [Detection](/iberlef2025/detection)
 
 For this task, we release a corpus of 4,200 tweets divided into three subsets. The training and development sets, comprising 2,800 and 700 examples respectively, are from the previously published [TA1C dataset](https://github.com/gmordecki/TA1C).
 
@@ -25,7 +25,7 @@ The dataset contains:
 - Teaser Text, the article's title followed by the tweet text or one of them if they are the same
 - Tag Value, can be "Clickbait" or "No"
 
-## [Spoiling](/spoiling)
+## [Spoiling](/iberlef2025/spoiling)
 
 For the spoiling task we release another corpus with 500 manually written spoilers. All of the examples come from the detection dataset and were previously, and manually, classified as clickbait.
 
